@@ -21,4 +21,4 @@ function selectTopic() {
   }
 
 listTopics()
-selectTopics(0)
+selectTopics[0]
