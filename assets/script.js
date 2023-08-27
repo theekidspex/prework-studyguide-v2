@@ -2,7 +2,7 @@ var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 
 function listTopics() {
     for (var x = 0; x < topics.length; x++) {
-        console.log(topics[0])
+        console.log(topics[x])
     }
 }
 
@@ -22,4 +22,4 @@ function selectTopics() {
 
 listTopics()
 
-selectTopics(0)
+selectTopics()
