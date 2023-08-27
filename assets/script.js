@@ -21,5 +21,5 @@ function selectTopic() {
   }
 }
 
-listTopics();
-selectTopics();
+listTopic();
+selectTopic();
