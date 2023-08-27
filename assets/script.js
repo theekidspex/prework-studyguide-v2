@@ -40,4 +40,4 @@ function selectTopic() {
   }
 }
 
-listTopics();
+listTopics()
