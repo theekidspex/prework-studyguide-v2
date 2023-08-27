@@ -18,7 +18,7 @@ for(var x = 0; x < topics.length; x++) {
 }
 */
 
-/*
+
 var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 
 function listTopics() {
@@ -40,7 +40,6 @@ function selectTopic() {
     console.log('Please try again!');
   }
 }
-*/
+listTopics();
 
-function listTopics()
 
