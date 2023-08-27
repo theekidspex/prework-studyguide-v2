@@ -38,7 +38,6 @@ function listTopics() {
     }
 }
 
-/*
 function selectTopic() {
   if (topic === 'HTML') {
     console.log("Let's study HTML!");
@@ -52,4 +51,3 @@ function selectTopic() {
     console.log('Please try again!');
   }
 }
-*/
