@@ -39,5 +39,4 @@ function selectTopic() {
     console.log('Please try again!');
   }
 }
-
 listTopics()
